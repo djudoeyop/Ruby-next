@@ -1,4 +1,4 @@
-# Ruby-next
+# Bloga (Blog website created with ruby and nextJS)
 This might not be the most unique website ever created, I mean it's a blog website.
 However, the uniqueness does not lie within the creation rather how it was created,
 I used two wonderful frameworks that are not often combined: nextJS and Ruby/Rails
